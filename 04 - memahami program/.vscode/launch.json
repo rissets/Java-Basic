@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Darisset",
+            "request": "launch",
+            "mainClass": "Darisset"
+        }
+    ]
+}
