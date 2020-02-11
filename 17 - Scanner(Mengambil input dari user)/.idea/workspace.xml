@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b18a7e9-5405-43c3-9efe-cb74ab314dd8" name="Default Changelist" comment="" />
+    <list default="true" id="b2e8a5fc-11ed-4d91-821a-63b776a319a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Operator Bitwise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Operator Bitwise/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/tutorial/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -52,22 +56,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="16 Operator Bitwise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="16 Operator Bitwise" type="462c0819:PsiDirectoryNode" />
+              <item name="17 - Scanner(Mengambil input dari user)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17 - Scanner(Mengambil input dari user)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581269837436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581350105853" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,7 +88,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tutorial.Main" />
-      <module name="16 Operator Bitwise" />
+      <module name="17 - Scanner(Mengambil input dari user)" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tutorial.*" />
@@ -106,16 +110,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b18a7e9-5405-43c3-9efe-cb74ab314dd8" name="Default Changelist" comment="" />
-      <created>1581267547532</created>
+      <changelist id="b2e8a5fc-11ed-4d91-821a-63b776a319a5" name="Default Changelist" comment="" />
+      <created>1581349006097</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581267547532</updated>
+      <updated>1581349006097</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -125,9 +130,9 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32973805" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32973805" />
@@ -148,8 +153,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/tutorial/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
