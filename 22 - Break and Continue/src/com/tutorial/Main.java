@@ -22,32 +22,32 @@ public class Main {
         // Contoh Break 2
         System.out.println("\n====> Breaak 2 <=====");
         Scanner input = new Scanner(System.in);
-//        int a,b,hasil,jawaban,salah;
-//        char tebakan;
-//        a = 5;
-//        b = 7;
-//        hasil = a*b;
-//        salah = 0;
-//
-//        System.out.print("Mau menjawab pertanyaan (y/n): ");
-//        tebakan = input.next().charAt(0);
-//
-//        if (tebakan == 'y'){
-//            while(true){
-//                System.out.print(a + " x " + b + " = ");
-//                jawaban = input.nextInt();
-//                if (jawaban == hasil){
-//                    System.out.println("Jawaban yang benar adalah " + hasil + ". Anda salah " + salah + " kali.");
-//                    break;
-//                } else{
-//                    salah++;
-//                }
-//            }
-//        } else if (tebakan == 'n'){
-//            System.out.println("Terima kasih atas tanggapan anda!");
-//        } else {
-//            System.out.println("Input yang anda masukan tidak sesuai!");
-//        }
+        int a,b,hasil,jawaban,salah;
+        char tebakan;
+        a = 5;
+        b = 7;
+        hasil = a*b;
+        salah = 0;
+
+        System.out.print("Mau menjawab pertanyaan (y/n): ");
+        tebakan = input.next().charAt(0);
+
+        if (tebakan == 'y'){
+            while(true){
+                System.out.print(a + " x " + b + " = ");
+                jawaban = input.nextInt();
+                if (jawaban == hasil){
+                    System.out.println("Jawaban yang benar adalah " + hasil + ". Anda salah " + salah + " kali.");
+                    break;
+                } else{
+                    salah++;
+                }
+            }
+        } else if (tebakan == 'n'){
+            System.out.println("Terima kasih atas tanggapan anda!");
+        } else {
+            System.out.println("Input yang anda masukan tidak sesuai!");
+        }
 
 
         // Contoh Continue 1
